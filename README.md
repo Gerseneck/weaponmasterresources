@@ -10,7 +10,6 @@ WeaponMasterResources is an overlay resource pack for the [WeaponMaster](https:/
 
 - [Installation](#installation)
 - [Licence](#licence)
-- [Credit](#credit)
 
 # Installation
 
@@ -23,7 +22,3 @@ Make sure there are no other texture pack equiped with `Custom Item` models, the
 # Licence
 
 This project is licensed under the terms and conditions of GPL v3.
-
-# Credit
-
-All textures in this texture pack are created by `gavino devito#8562`.
