@@ -15,7 +15,7 @@ WeaponMasterResources is an overlay resource pack for the [WeaponMaster](https:/
 
 **Make sure optifine is installed, this pack requires optifine to work properly**
 
-To install this resource pack, paste the zip file in the `.minecraft/resourcepack` folder.
+To install this resource pack, paste the zip file in the `.minecraft/resourcepacks` folder.
 
 # Licence
 
