@@ -15,9 +15,7 @@ WeaponMasterResources is an overlay resource pack for the [WeaponMaster](https:/
 
 **Make sure optifine is installed, this pack requires optifine to work properly**
 
-To install this resource pack, paste the zip file in the `.minecraft/resourcepack` folder. 
-
-Make sure there are no other texture pack equiped with `Custom Item` models, the custom item models will override this overlay pack and make it useless.
+To install this resource pack, paste the zip file in the `.minecraft/resourcepacks` folder.
 
 # Licence
 
