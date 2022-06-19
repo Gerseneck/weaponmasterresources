@@ -1,1 +1,1 @@
-{"overrides":[{"model":"item/rocketstick","predicate":{"nbt":{"display":{"Name":"/Dragon Sword/"}}}}],"parent":"minecraft:item/generated","textures":{"layer0":"minecraft:item/stick"}}
+{"overrides":[{"model":"item/rocketstick","predicate":{"nbt":{"display":{"Lore":["/.*ROCKET_STICK---.*/"]}}}}],"parent":"minecraft:item/generated","textures":{"layer0":"minecraft:item/stick"}}

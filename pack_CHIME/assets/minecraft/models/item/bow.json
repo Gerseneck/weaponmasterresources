@@ -1,1 +1,1 @@
-{"overrides":[{"model":"item/artemis","predicate":{"nbt":{"display":{"Lore":["/.*ARTEMIS_BOW.*/"]}}}}],"parent":"minecraft:item/generated","textures":{"layer0":"minecraft:item/bow"}}
+{"overrides":[{"model":"item/artemis","predicate":{"nbt":{"display":{"Lore":["/.*ARTEMIS_BOW---.*/"]}}}}],"parent":"minecraft:item/generated","textures":{"layer0":"minecraft:item/bow"}}
