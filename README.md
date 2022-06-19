@@ -1,3 +1,9 @@
+## THIS IS THE FABRIC MOD VERSION THAT USES `CHIME` AND IS STILL IN DEVELOPMENT
+
+chime: https://github.com/emilyploszaj/chime
+
+converted using optichime: https://github.com/spencersolberg/optichime
+
 # WeaponMasterResources
 
 [![GitHub contributors](https://img.shields.io/github/contributors/Gerseneck/weaponmasterresources?style=for-the-badge)](https://github.com/Gerseneck/weaponmasterresources/graphs/contributors)
@@ -5,8 +11,6 @@
 [![GitHub release (latest by date)](https://img.shields.io/github/v/release/Gerseneck/weaponmasterresources?style=for-the-badge)](https://github.com/greatericontop/weaponmaster/releases)
 [![GitHub issues](https://img.shields.io/github/issues/Gerseneck/weaponmasterresources?style=for-the-badge)](https://github.com/Gerseneck/weaponmasterresources/issues)
 [![GitHub](https://img.shields.io/github/license/Gerseneck/weaponmasterresources?style=for-the-badge)](https://github.com/Gerseneck/weaponmasterresources/blob/main/LICENSE)
-
-## THIS IS THE FABRIC MOD VERSION THAT USES `CHIME` AND IS STILL IN DEVELOPMENT
 
 WeaponMasterResources is an overlay resource pack for the [WeaponMaster](https://github.com/greatericontop/weaponmaster) plugin.
 
