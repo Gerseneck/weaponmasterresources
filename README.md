@@ -6,6 +6,8 @@
 [![GitHub issues](https://img.shields.io/github/issues/Gerseneck/weaponmasterresources?style=for-the-badge)](https://github.com/Gerseneck/weaponmasterresources/issues)
 [![GitHub](https://img.shields.io/github/license/Gerseneck/weaponmasterresources?style=for-the-badge)](https://github.com/Gerseneck/weaponmasterresources/blob/main/LICENSE)
 
+## THIS IS THE FABRIC MOD VERSION THAT USES `CHIME` AND IS STILL IN DEVELOPMENT
+
 WeaponMasterResources is an overlay resource pack for the [WeaponMaster](https://github.com/greatericontop/weaponmaster) plugin.
 
 - [Installation](#installation)
