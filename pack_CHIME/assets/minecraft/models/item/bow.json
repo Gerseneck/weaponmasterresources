@@ -1,0 +1,1 @@
+{"overrides":[{"model":"item/artemis","predicate":{"nbt":{"display":{"Lore":{"*":"id: ARTEMIS_BOW"}}}}}],"parent":"minecraft:item/generated","textures":{"layer0":"minecraft:item/bow"}}

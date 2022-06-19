@@ -1,0 +1,1 @@
+{"overrides":[{"model":"item/vampaxe","predicate":{"nbt":{"display":{"Lore":{"*":"id: VAMP_AXE"}}}}}],"parent":"minecraft:item/generated","textures":{"layer0":"minecraft:item/netherite_axe"}}

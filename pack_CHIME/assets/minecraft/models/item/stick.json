@@ -1,0 +1,1 @@
+{"overrides":[{"model":"item/rocketstick","predicate":{"nbt":{"display":{"Lore":{"*":"id: ROCKET_STICK"}}}}}],"parent":"minecraft:item/generated","textures":{"layer0":"minecraft:item/stick"}}
