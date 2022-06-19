@@ -1,1 +1,1 @@
-{"overrides":[{"model":"item/dragonsword","predicate":{"nbt":{"display":{"Lore":{"*":"id: DRAGON_SWORD"}}}}}],"parent":"minecraft:item/generated","textures":{"layer0":"minecraft:item/netherite_sword"}}
+{"overrides":[{"model":"item/dragonsword","predicate":{"nbt":{"display":{"Lore":["/.*DRAGON_SWORD.*/"]}}}}],"parent":"minecraft:item/generated","textures":{"layer0":"minecraft:item/netherite_sword"}}

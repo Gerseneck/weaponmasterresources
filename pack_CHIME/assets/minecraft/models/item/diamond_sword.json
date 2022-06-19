@@ -1,1 +1,1 @@
-{"overrides":[{"model":"item/excalibur","predicate":{"nbt":{"display":{"Lore":{"*":"id: EXCALIBUR"}}}}}],"parent":"minecraft:item/generated","textures":{"layer0":"minecraft:item/diamond_sword"}}
+{"overrides":[{"model":"item/excalibur","predicate":{"nbt":{"display":{"Lore":["/.*EXCALIBUR.*/"]}}}}],"parent":"minecraft:item/generated","textures":{"layer0":"minecraft:item/diamond_sword"}}
