@@ -17,6 +17,8 @@ WeaponMasterResources is an overlay resource pack for the [WeaponMaster](https:/
 
 To install this resource pack, paste the zip file in the `.minecraft/resourcepacks` folder.
 
+currently working on a version compatible with the `Chime` fabric mod. 
+
 # Licence
 
 This project is licensed under the terms and conditions of GPL v3.0.
