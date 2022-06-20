@@ -19,4 +19,4 @@ To install this resource pack, paste the zip file in the `.minecraft/resourcepac
 
 # Licence
 
-This project is licensed under the terms and conditions of GPL v3.
+This project is licensed under the terms and conditions of GPL v3.0.
