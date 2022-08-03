@@ -21,4 +21,4 @@ currently working on a version compatible with the [Chime](https://www.curseforg
 
 # Licence
 
-This project is licensed under the terms and conditions of GPL v3.0.
+This project is licensed under the terms and conditions of Creative Commons Attribution 4.0 License.
