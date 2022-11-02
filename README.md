@@ -8,8 +8,7 @@
 
 WeaponMasterResources is an overlay resource pack for the [WeaponMaster](https://github.com/greatericontop/weaponmaster) plugin.
 
-- [Installation](#installation)
-- [Licence](#licence)
+---
 
 # Installation
 
