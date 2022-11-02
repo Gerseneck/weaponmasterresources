@@ -13,11 +13,9 @@ WeaponMasterResources is an overlay resource pack for the [WeaponMaster](https:/
 
 # Installation
 
-**Make sure [Optifine](https://optifine.net/home) is installed, this pack requires optifine to work properly**
+**Either [Optifine](https://www.optifine.net/) or [Chime](https://github.com/emilyploszaj/chime/) is required for this texture pack to work properly**
 
 To install this resource pack, paste the zip file in the `.minecraft/resourcepacks` folder.
-
-currently working on a version compatible with the [Chime](https://www.curseforge.com/minecraft/mc-mods/chime-fabric)  fabric mod. 
 
 # Licence
 
