@@ -8,5 +8,14 @@
 				}
 			}
 		}
+	}, {
+		"model": "wm:excalibur/excalibur",
+		"predicate": {
+			"nbt": {
+				"display": {
+					"Lore": ["/.*EXCALIBUR.*/"]
+				}
+			}
+		}
 	}]
 }
