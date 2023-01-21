@@ -1,0 +1,6 @@
+{
+    "parent": "wm:ninjabow/bow_base",
+    "textures": {
+        "layer0": "wm:ninjabow/ninjabow"
+    }
+}
