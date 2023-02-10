@@ -1,5 +1,3 @@
-./minecraft/models - these models are from vanilla tweaks
-ok no one cares about the rest
+All textures are made by Cyavin and Shelduck.
 
-Cyavin - textures
-other models are from me :)
+Compiled by Gerseneck

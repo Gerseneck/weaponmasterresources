@@ -1,0 +1,21 @@
+{
+	"overrides": [{
+		"model": "wm:dragonsword/dragonsword",
+		"predicate": {
+			"nbt": {
+				"display": {
+					"Lore": ["/.*DRAGON_SWORD.*/"]
+				}
+			}
+		}
+	}, {
+		"model": "wm:excalibur/excalibur",
+		"predicate": {
+			"nbt": {
+				"display": {
+					"Lore": ["/.*EXCALIBUR.*/"]
+				}
+			}
+		}
+	}]
+}
