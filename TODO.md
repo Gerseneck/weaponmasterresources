@@ -32,7 +32,7 @@
   - [x] Vampire's Axe
   - [ ] Warlock Pants
 - [ ] EPIC
-  - [ ] Anduril
+  - [x] Anduril
   - [x] Copper Sword
   - [ ] Fireball
   - [ ] Wither Staff
@@ -43,8 +43,3 @@
   - [x] Nether Reactor Core
   - [ ] Silky String
 
-
-## BUGS
-
-### CHIME
-- [ ] fix pull amination model for ninja bow
