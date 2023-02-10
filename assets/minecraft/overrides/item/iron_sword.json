@@ -1,0 +1,12 @@
+{
+	"overrides": [{
+		"model": "wm:anduril/anduril",
+		"predicate": {
+			"nbt": {
+				"display": {
+					"Lore": ["/.*ANDURIL*/"]
+				}
+			}
+		}
+	} 
+}
