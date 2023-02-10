@@ -4,9 +4,9 @@
 		"predicate": {
 			"nbt": {
 				"display": {
-					"Lore": ["/.*ANDURIL*/"]
+					"Lore": ["/.*ANDURIL.*/"]
 				}
 			}
 		}
-	} 
+	}]
 }
