@@ -12,7 +12,7 @@
 - [ ] LEGENDARY
   - [x] Artemis Bow
   - [ ] Caveman Sword
-  - [ ] Death's Scythe
+  - [x] Death's Scythe
   - [ ] Dragon Armor
   - [ ] Dragon Elytra
   - [x] Dragon Sword
