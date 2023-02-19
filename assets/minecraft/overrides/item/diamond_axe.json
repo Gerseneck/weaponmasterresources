@@ -1,0 +1,12 @@
+{
+	"overrides": [{
+		"model": "wm:shreddedaxe/shreddedaxe",
+		"predicate": {
+			"nbt": {
+				"display": {
+					"Lore": ["/.*SHREDDED_AXE.*/"]
+				}
+			}
+		}
+	}]
+}

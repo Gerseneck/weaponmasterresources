@@ -27,8 +27,8 @@
   - [ ] Pilot Sword
   - [ ] Poseidon's Trident
   - [ ] Scylla's Chestplate
-  - [ ] Shredded Axe
-  - [ ] Valkyrie Axe
+  - [x] Shredded Axe
+  - [x] Valkyrie Axe
   - [x] Vampire's Axe
   - [ ] Warlock Pants
 - [ ] EPIC
