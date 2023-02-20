@@ -14,7 +14,7 @@ WeaponMasterResources is an overlay resource pack for the [WeaponMaster](https:/
 
 **Either [Optifine](https://www.optifine.net/) or [Chime](https://github.com/emilyploszaj/chime/) is required for this texture pack to work properly**
 
-To install this resource pack, paste the zip file in the `.minecraft/resourcepacks` folder.
+To install this resource pack, download the zip file from the [releases tab](https://github.com/Gerseneck/weaponmasterresources/releases) and paste it in the `.minecraft/resourcepacks` folder.
 
 # Licence
 
