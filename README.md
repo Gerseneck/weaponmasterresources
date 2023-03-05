@@ -16,6 +16,9 @@ WeaponMasterResources is an overlay resource pack for the [WeaponMaster](https:/
 
 To install this resource pack, download the zip file from the [releases tab](https://github.com/Gerseneck/weaponmasterresources/releases) and paste it in the `.minecraft/resourcepacks` folder.
 
+Pack made for 1.18.2+. If minecraft complains that pack is made for older versions, just ignore it and continue.
+
+
 # Licence
 
 This project is licensed under the terms and conditions of Creative Commons Attribution 4.0 License.
