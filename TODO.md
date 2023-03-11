@@ -3,12 +3,6 @@
 
 ## Textures
 
-- [ ] SUPREME
-  - [ ] Atom Bomb
-  - [ ] Napalm Missile
-  - [x] Rocket Stick
-  - [ ] RPG Launcher
-  - [ ] Sniper Rifle
 - [ ] LEGENDARY
   - [x] Artemis Bow
   - [ ] Caveman Sword
