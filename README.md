@@ -1,4 +1,4 @@
-# WeaponMasterResources
+# WeaponMaster Resources
 
 [![GitHub contributors](https://img.shields.io/github/contributors/Gerseneck/weaponmasterresources?style=for-the-badge)](https://github.com/Gerseneck/weaponmasterresources/graphs/contributors)
 [![GitHub repo size](https://img.shields.io/github/repo-size/Gerseneck/weaponmasterresources?style=for-the-badge)](https://github.com/Gerseneck/weaponmasterresources)
