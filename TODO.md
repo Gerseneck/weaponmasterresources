@@ -16,7 +16,7 @@
   - [ ] Helmet of Life
   - [ ] Herme's Boots
   - [x] Miner's Blessing
-  - [ ] Netherite Staff
+  - [x] Netherite Staff
   - [x] Ninja Bow
   - [ ] Pilot Sword
   - [ ] Poseidon's Trident
@@ -30,8 +30,13 @@
   - [x] Copper Sword
   - [ ] Wither Staff
 - [ ] OTHERS
+  - [ ] Dragon's Horn
+  - [ ] Dragon's Scale
+  - [ ] Dragon's Wing
   - [ ] Heart of Leviathan
   - [ ] Hide of Leviathan
+  - [ ] Life Core
+  - [ ] Magic Energy Bar
   - [x] Nether Reactor Core
-  - [ ] Silky String
+  - [x] Silky String
 
