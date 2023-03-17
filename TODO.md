@@ -25,10 +25,10 @@
   - [x] Valkyrie Axe
   - [x] Vampire's Axe
   - [ ] Warlock Pants
-- [ ] EPIC
+- [x] EPIC
   - [x] Anduril
   - [x] Copper Sword
-  - [ ] Wither Staff
+  - [x] Wither Staff
 - [ ] OTHERS
   - [ ] Dragon's Horn
   - [ ] Dragon's Scale
