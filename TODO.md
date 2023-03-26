@@ -7,7 +7,7 @@
   - [x] Artemis Bow
   - [ ] Caveman Sword
   - [x] Death's Scythe
-  - [ ] Dragon Armor
+  - [x] Dragon Armor
   - [ ] Dragon Elytra
   - [x] Dragon Sword
   - [x] Excalibur
