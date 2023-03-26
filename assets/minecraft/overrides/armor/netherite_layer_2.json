@@ -1,0 +1,12 @@
+{
+	"overrides": [{
+		"texture": "wm:textures/dragonarmor/dragon_layer_2",
+		"predicate": {
+			"nbt": {
+				"display": {
+					"Lore": ["/.*DRAGON_ARMOR.*/"]
+				}
+			}
+		}
+	}]
+}

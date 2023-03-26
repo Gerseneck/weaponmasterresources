@@ -1,0 +1,12 @@
+{
+	"overrides": [{
+		"model": "wm:dragonarmor/dragon_chestplate",
+		"predicate": {
+			"nbt": {
+				"display": {
+					"Lore": ["/.*DRAGON_ARMOR.*/"]
+				}
+			}
+		}
+	}]
+}
