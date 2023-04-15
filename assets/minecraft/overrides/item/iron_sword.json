@@ -8,5 +8,25 @@
 				}
 			}
 		}
+	},
+	{
+		"model": "wm:helios/helios",
+		"predicate": {
+			"nbt": {
+				"display": {
+					"Lore": ["/.*HELIOS.*/"]
+				}
+			}
+		}
+	},
+	{
+		"model": "wm:throwingknife/throwingknife",
+		"predicate": {
+			"nbt": {
+				"display": {
+					"Lore": ["/.*THROWING_KNIFE.*/"]
+				}
+			}
+		}
 	}]
 }
