@@ -12,7 +12,7 @@
   - [x] Dragon Sword
   - [x] Excalibur
   - [ ] Exodus
-  - [ ] Helios
+  - [x] Helios
   - [ ] Helmet of Life
   - [ ] Herme's Boots
   - [x] Miner's Blessing
@@ -22,6 +22,7 @@
   - [ ] Poseidon's Trident
   - [ ] Scylla's Chestplate
   - [x] Shredded Axe
+  - [x] Throwing Knife
   - [x] Valkyrie Axe
   - [x] Vampire's Axe
   - [ ] Warlock Pants
