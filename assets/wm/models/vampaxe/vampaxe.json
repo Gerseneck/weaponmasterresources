@@ -1,1 +1,6 @@
-{"parent":"item/handheld","textures":{"layer0":"wm:vampaxe/vampaxe"}}
+{
+  "parent": "item/handheld",
+  "textures": {
+    "layer0": "wm:vampaxe/vampaxe"
+  }
+}

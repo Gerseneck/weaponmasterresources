@@ -1,1 +1,6 @@
-{"parent":"item/handheld", "textures":{"layer0":"wm:witherstaff/witherstaff"}}
+{
+  "parent": "item/handheld",
+  "textures": {
+    "layer0": "wm:witherstaff/witherstaff"
+  }
+}

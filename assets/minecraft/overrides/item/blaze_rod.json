@@ -1,12 +1,16 @@
 {
-	"overrides": [{
-		"model": "wm:witherstaff/witherstaff",
-		"predicate": {
-			"nbt": {
-				"display": {
-					"Lore": ["/.*WITHER_STAFF.*/"]
-				}
-			}
-		}
-	}]
+  "overrides": [
+    {
+      "model": "wm:witherstaff/witherstaff",
+      "predicate": {
+        "nbt": {
+          "display": {
+            "Lore": [
+              "/.*WITHER_STAFF.*/"
+            ]
+          }
+        }
+      }
+    }
+  ]
 }

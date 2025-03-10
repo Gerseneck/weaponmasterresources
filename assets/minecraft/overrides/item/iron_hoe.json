@@ -1,12 +1,16 @@
 {
-	"overrides": [{
-		"model": "wm:deathscythe/deathscythe",
-		"predicate": {
-			"nbt": {
-				"display": {
-					"Lore": ["/.*DEATH_SCYTHE.*/"]
-				}
-			}
-		}
-	}]
+  "overrides": [
+    {
+      "model": "wm:deathscythe/deathscythe",
+      "predicate": {
+        "nbt": {
+          "display": {
+            "Lore": [
+              "/.*DEATH_SCYTHE.*/"
+            ]
+          }
+        }
+      }
+    }
+  ]
 }

@@ -1,12 +1,16 @@
 {
-	"overrides": [{
-		"model": "wm:other/core_staff",
-		"predicate": {
-			"nbt": {
-				"display": {
-					"Lore": ["/.*CORE_STAFF.*/"]
-				}
-			}
-		}
-	}]
+  "overrides": [
+    {
+      "model": "wm:other/core_staff",
+      "predicate": {
+        "nbt": {
+          "display": {
+            "Lore": [
+              "/.*CORE_STAFF.*/"
+            ]
+          }
+        }
+      }
+    }
+  ]
 }

@@ -1,12 +1,16 @@
 {
-	"overrides": [{
-		"model": "wm:netheritestaff/netheritestaff",
-		"predicate": {
-			"nbt": {
-				"display": {
-					"Lore": ["/.*NETHERITE_STAFF.*/"]
-				}
-			}
-		}
-	}]
+  "overrides": [
+    {
+      "model": "wm:netheritestaff/netheritestaff",
+      "predicate": {
+        "nbt": {
+          "display": {
+            "Lore": [
+              "/.*NETHERITE_STAFF.*/"
+            ]
+          }
+        }
+      }
+    }
+  ]
 }

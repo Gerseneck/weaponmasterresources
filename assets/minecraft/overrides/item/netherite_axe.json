@@ -1,22 +1,28 @@
 {
-	"overrides": [{
-		"model": "wm:vampaxe/vampaxe",
-		"predicate": {
-			"nbt": {
-				"display": {
-					"Lore": ["/.*id: VAMP_AXE.*/"]
-				}
-			}
-		}
-	},
-	{
-		"model": "wm:shreddedaxe/shreddedaxe",
-		"predicate": {
-			"nbt": {
-				"display": {
-					"Lore": ["/.*SHREDDED_AXE.*/"]
-				}
-			}
-		}
-	}]
+  "overrides": [
+    {
+      "model": "wm:vampaxe/vampaxe",
+      "predicate": {
+        "nbt": {
+          "display": {
+            "Lore": [
+              "/.*id: VAMP_AXE.*/"
+            ]
+          }
+        }
+      }
+    },
+    {
+      "model": "wm:shreddedaxe/shreddedaxe",
+      "predicate": {
+        "nbt": {
+          "display": {
+            "Lore": [
+              "/.*SHREDDED_AXE.*/"
+            ]
+          }
+        }
+      }
+    }
+  ]
 }

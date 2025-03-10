@@ -1,1 +1,6 @@
-{"parent":"item/handheld", "textures":{"layer0":"wm:helios/helios"}}
+{
+  "parent": "item/handheld",
+  "textures": {
+    "layer0": "wm:helios/helios"
+  }
+}

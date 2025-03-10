@@ -1,12 +1,16 @@
 {
-	"overrides": [{
-		"model": "wm:coppersword/coppersword",
-		"predicate": {
-			"nbt": {
-				"display": {
-					"Lore": ["/.*COPPER_SWORD.*/"]
-				}
-			}
-		}
-	}]
+  "overrides": [
+    {
+      "model": "wm:coppersword/coppersword",
+      "predicate": {
+        "nbt": {
+          "display": {
+            "Lore": [
+              "/.*COPPER_SWORD.*/"
+            ]
+          }
+        }
+      }
+    }
+  ]
 }

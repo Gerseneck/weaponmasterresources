@@ -1,12 +1,16 @@
 {
-	"overrides": [{
-		"model": "wm:rocketstick/rocketstick",
-		"predicate": {
-			"nbt": {
-				"display": {
-					"Lore": ["/.*ROCKET_STICK.*/"]
-				}
-			}
-		}
-	}]
+  "overrides": [
+    {
+      "model": "wm:rocketstick/rocketstick",
+      "predicate": {
+        "nbt": {
+          "display": {
+            "Lore": [
+              "/.*ROCKET_STICK.*/"
+            ]
+          }
+        }
+      }
+    }
+  ]
 }

@@ -1,12 +1,16 @@
 {
-	"overrides": [{
-		"model": "wm:valkyrie/valkyrie",
-		"predicate": {
-			"nbt": {
-				"display": {
-					"Lore": ["/.*VALKYRIE_AXE.*/"]
-				}
-			}
-		}
-	}]
+  "overrides": [
+    {
+      "model": "wm:valkyrie/valkyrie",
+      "predicate": {
+        "nbt": {
+          "display": {
+            "Lore": [
+              "/.*VALKYRIE_AXE.*/"
+            ]
+          }
+        }
+      }
+    }
+  ]
 }

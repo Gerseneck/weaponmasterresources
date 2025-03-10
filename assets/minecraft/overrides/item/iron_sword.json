@@ -1,32 +1,40 @@
 {
-	"overrides": [{
-		"model": "wm:anduril/anduril",
-		"predicate": {
-			"nbt": {
-				"display": {
-					"Lore": ["/.*ANDURIL.*/"]
-				}
-			}
-		}
-	},
-	{
-		"model": "wm:helios/helios",
-		"predicate": {
-			"nbt": {
-				"display": {
-					"Lore": ["/.*HELIOS.*/"]
-				}
-			}
-		}
-	},
-	{
-		"model": "wm:throwingknife/throwingknife",
-		"predicate": {
-			"nbt": {
-				"display": {
-					"Lore": ["/.*THROWING_KNIFE.*/"]
-				}
-			}
-		}
-	}]
+  "overrides": [
+    {
+      "model": "wm:anduril/anduril",
+      "predicate": {
+        "nbt": {
+          "display": {
+            "Lore": [
+              "/.*ANDURIL.*/"
+            ]
+          }
+        }
+      }
+    },
+    {
+      "model": "wm:helios/helios",
+      "predicate": {
+        "nbt": {
+          "display": {
+            "Lore": [
+              "/.*HELIOS.*/"
+            ]
+          }
+        }
+      }
+    },
+    {
+      "model": "wm:throwingknife/throwingknife",
+      "predicate": {
+        "nbt": {
+          "display": {
+            "Lore": [
+              "/.*THROWING_KNIFE.*/"
+            ]
+          }
+        }
+      }
+    }
+  ]
 }

@@ -1,12 +1,16 @@
 {
-	"overrides": [{
-		"model": "wm:dragonarmor/dragon_boots",
-		"predicate": {
-			"nbt": {
-				"display": {
-					"Lore": ["/.*DRAGON_ARMOR.*/"]
-				}
-			}
-		}
-	}]
+  "overrides": [
+    {
+      "model": "wm:dragonarmor/dragon_boots",
+      "predicate": {
+        "nbt": {
+          "display": {
+            "Lore": [
+              "/.*DRAGON_ARMOR.*/"
+            ]
+          }
+        }
+      }
+    }
+  ]
 }

@@ -1,12 +1,16 @@
 {
-	"overrides": [{
-		"model": "wm:other/silky_string",
-		"predicate": {
-			"nbt": {
-				"display": {
-					"Lore": ["/.*SILKY_STRING.*/"]
-				}
-			}
-		}
-	}]
+  "overrides": [
+    {
+      "model": "wm:other/silky_string",
+      "predicate": {
+        "nbt": {
+          "display": {
+            "Lore": [
+              "/.*SILKY_STRING.*/"
+            ]
+          }
+        }
+      }
+    }
+  ]
 }

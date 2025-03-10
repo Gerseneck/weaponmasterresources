@@ -1,1 +1,6 @@
-{"parent":"item/handheld", "textures":{"layer0":"wm:valkyrie/valkyrie"}}
+{
+  "parent": "item/handheld",
+  "textures": {
+    "layer0": "wm:valkyrie/valkyrie"
+  }
+}

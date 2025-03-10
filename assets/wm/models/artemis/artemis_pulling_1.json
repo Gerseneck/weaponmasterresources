@@ -1,6 +1,6 @@
 {
-    "parent": "wm:artemis/bow_base",
-    "textures": {
-        "layer0": "wm:artemis/artemis_pulling_1"
-    }
+  "parent": "wm:artemis/bow_base",
+  "textures": {
+    "layer0": "wm:artemis/artemis_pulling_1"
+  }
 }

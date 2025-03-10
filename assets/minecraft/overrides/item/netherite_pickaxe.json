@@ -1,12 +1,16 @@
 {
-	"overrides": [{
-		"model": "wm:miners/miners",
-		"predicate": {
-			"nbt": {
-				"display": {
-					"Lore": ["/.*MINERS_BLESSING.*/"]
-				}
-			}
-		}
-	}]
+  "overrides": [
+    {
+      "model": "wm:miners/miners",
+      "predicate": {
+        "nbt": {
+          "display": {
+            "Lore": [
+              "/.*MINERS_BLESSING.*/"
+            ]
+          }
+        }
+      }
+    }
+  ]
 }

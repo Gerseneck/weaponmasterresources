@@ -1,1 +1,6 @@
-{"parent":"item/handheld", "textures":{"layer0":"wm:throwingknife/throwingknife"}}
+{
+  "parent": "item/handheld",
+  "textures": {
+    "layer0": "wm:throwingknife/throwingknife"
+  }
+}
