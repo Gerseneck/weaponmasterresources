@@ -22,13 +22,15 @@ WeaponMasterResources is an overlay resource pack for the [WeaponMaster](https:/
 
 **Either [Optifine](https://www.optifine.net/) or [Chime](https://github.com/emilyploszaj/chime/) is required for this texture pack to work properly**
 
-To install this resource pack, download the zip with the correct Minecraft version from the [releases tab](https://github.com/Gerseneck/weaponmasterresources/releases) and paste it in the `.minecraft/resourcepacks` folder.
+To install this resource pack, download the zip with the correct Minecraft version from the [releases tab](https://github.com/Gerseneck/weaponmasterresources/releases) and paste it in the `.minecraft/resourcepacks/` directory.
 
 # Building From Source
 
-Use any Linux machine with the GNU Core Utils and run the following command:
+Use any Linux machine with the GNU Core Utils and run the following commands:
 
 ```sh
+git clone https://github.com/Gerseneck/weaponmasterresources.git
+cd weaponmasterresources
 ./build.sh
 ```
 
