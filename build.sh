@@ -1,6 +1,7 @@
 #!/bin/bash
 
 WM_RESOURCES_VERSION="1.0.0" # TODO: Make this tag compatible
+WM_VERSION="1.5.0"
 
 mkdir -p out/
 mkdir -p .temp/
@@ -31,7 +32,7 @@ do
 
     cp_common
 
-    filename="out/WM-Resources-$WM_RESOURCES_VERSION-$version.zip"
+    filename="out/WM-Resources-$WM_RESOURCES_VERSION-WM-$WM_VERSION-MC-$version.zip"
 
     cd .temp/
     zip -r "../$filename" .
@@ -41,7 +42,7 @@ do
 
     echo -e "\033[0;33mCleaning up build files for \033[1;37m$version\033[0;33m!\033[0;0m"
     rm -r .temp/*
-    echo -e "\033[0;32mAuxiliary files for \033[1;37m$version\033[0;32m successfully cleaned!.\033[0;0m"
+    echo -e "\033[0;32mAuxiliary files for \033[1;37m$version\033[0;32m successfully cleaned!\033[0;0m"
     
     echo "---------------------------------------------------------------------------------------------------------------------------------------------------"
 done
