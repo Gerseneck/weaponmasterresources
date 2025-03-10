@@ -1,7 +1,14 @@
 #!/bin/bash
 
-WM_RESOURCES_VERSION="1.0.0" # TODO: Make this tag compatible
+GIT_TAG=$(git name-rev HEAD --tags | awk '{sub("tags/", ""); print $2}')
 WM_VERSION="1.5.0"
+
+if [ "$GIT_TAG" = "undefined" ]
+then
+    WM_RESOURCES_VERSION="git_$(git rev-parse --short HEAD)"
+else
+    WM_RESOURCES_VERSION="$GIT_TAG"
+fi
 
 mkdir -p out/
 mkdir -p .temp/
