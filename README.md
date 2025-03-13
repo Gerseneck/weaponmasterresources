@@ -12,11 +12,12 @@ WeaponMasterResources is an overlay resource pack for the [WeaponMaster](https:/
 
 # Support Versions
 
-| Minecraft Version | Supported?               |
-| ----------------- |------------------------- |
-| Pre-1.18          | :x:                      |
-| 1.18.x            | :ballot_box_with_check:  |
-| 1.19+             | :x:                      |
+| Minecraft Version | Optifine Support?       | Chime Support?          |
+| ----------------- | ----------------------- | ----------------------- |
+| Pre-1.18          | :x:                     | :x:                     |
+| 1.18.x            | :ballot_box_with_check: | :ballot_box_with_check: |
+| 1.19-1.19.2       | :ballot_box_with_check: | :ballot_box_with_check: |
+| 1.19.3+           | :x:                     | :x:                     |
 
 # Installation
 
