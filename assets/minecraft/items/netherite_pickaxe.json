@@ -5,16 +5,15 @@
         "component": "minecraft:custom_name",
         "cases": [
             {
-                "when":
-                {
+                "when": {
                     "extra": [
                         {
                             "bold": true,
-                            "color": "white",
+                            "color": "green",
                             "italic": false,
                             "obfuscated": false,
                             "strikethrough": false,
-                            "text": "Anduril ",
+                            "text": "Miner's Blessing ",
                             "underlined": false
                         },
                         {
@@ -28,13 +27,13 @@
                 },
                 "model": {
                     "type": "minecraft:model",
-                    "model": "weaponmaster:anduril/anduril"
+                    "model": "weaponmaster:miners/miners"
                 }
             }
         ],
         "fallback": {
             "type": "minecraft:model",
-            "model": "minecraft:item/iron_sword"
+            "model": "minecraft:item/netherite_pickaxe"
         }
     }
 }

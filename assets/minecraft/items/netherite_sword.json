@@ -5,20 +5,18 @@
         "component": "minecraft:custom_name",
         "cases": [
             {
-                "when":
-                {
+                "when": {
                     "extra": [
                         {
-                            "bold": true,
-                            "color": "white",
+                            "bold": false,
+                            "color": "green",
                             "italic": false,
                             "obfuscated": false,
                             "strikethrough": false,
-                            "text": "Anduril ",
+                            "text": "Dragon Sword ",
                             "underlined": false
                         },
                         {
-                            "bold": false,
                             "color": "gold",
                             "italic": false,
                             "text": "⚝⚝⚝⚝⚝"
@@ -28,13 +26,13 @@
                 },
                 "model": {
                     "type": "minecraft:model",
-                    "model": "weaponmaster:anduril/anduril"
+                    "model": "weaponmaster:dragonsword/dragonsword"
                 }
             }
         ],
         "fallback": {
             "type": "minecraft:model",
-            "model": "minecraft:item/iron_sword"
+            "model": "minecraft:item/netherite_sword"
         }
     }
 }

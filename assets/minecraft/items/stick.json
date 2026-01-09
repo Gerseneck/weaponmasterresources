@@ -5,20 +5,18 @@
         "component": "minecraft:custom_name",
         "cases": [
             {
-                "when":
-                {
+                "when": {
                     "extra": [
                         {
-                            "bold": true,
-                            "color": "white",
+                            "bold": false,
+                            "color": "blue",
                             "italic": false,
                             "obfuscated": false,
                             "strikethrough": false,
-                            "text": "Anduril ",
+                            "text": "Rocket Stick ",
                             "underlined": false
                         },
                         {
-                            "bold": false,
                             "color": "gold",
                             "italic": false,
                             "text": "⚝⚝⚝⚝⚝"
@@ -28,13 +26,13 @@
                 },
                 "model": {
                     "type": "minecraft:model",
-                    "model": "weaponmaster:anduril/anduril"
+                    "model": "weaponmaster:rocketstick/rocketstick"
                 }
             }
         ],
         "fallback": {
             "type": "minecraft:model",
-            "model": "minecraft:item/iron_sword"
+            "model": "minecraft:item/stick"
         }
     }
 }
