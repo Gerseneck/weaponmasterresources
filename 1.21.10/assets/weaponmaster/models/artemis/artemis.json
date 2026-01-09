@@ -1,0 +1,6 @@
+{
+    "parent": "weaponmaster:artemis/bow_base",
+    "textures": {
+        "layer0": "weaponmaster:item/artemis"
+    }
+}

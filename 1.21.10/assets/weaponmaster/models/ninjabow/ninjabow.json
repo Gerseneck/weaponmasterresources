@@ -1,0 +1,6 @@
+{
+    "parent": "weaponmaster:ninjabow/bow_base",
+    "textures": {
+        "layer0": "weaponmaster:item/ninjabow"
+    }
+}
