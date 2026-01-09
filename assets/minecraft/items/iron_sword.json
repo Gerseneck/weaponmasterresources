@@ -5,8 +5,7 @@
         "component": "minecraft:custom_name",
         "cases": [
             {
-                "when":
-                {
+                "when": {
                     "extra": [
                         {
                             "bold": true,
@@ -29,6 +28,57 @@
                 "model": {
                     "type": "minecraft:model",
                     "model": "weaponmaster:anduril/anduril"
+                }
+            },
+            {
+                "when": {
+                    "extra": [
+                        {
+                            "italic": false,
+                            "underlined": false,
+                            "bold": true,
+                            "color": "white",
+                            "obfuscated": false,
+                            "strikethrough": false,
+                            "text": "Helios "
+                        },
+                        {
+                            "italic": false,
+                            "text": "⚝⚝⚝⚝⚝",
+                            "bold": false,
+                            "color": "gold"
+                        }
+                    ],
+                    "text": ""
+                },
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "weaponmaster:helios/helios"
+                }
+            },
+            {
+                "when": {
+                    "extra": [
+                        {
+                            "italic": false,
+                            "underlined": false,
+                            "bold": false,
+                            "color": "red",
+                            "obfuscated": false,
+                            "strikethrough": false,
+                            "text": "Throwing Knife "
+                        },
+                        {
+                            "italic": false,
+                            "text": "⚝⚝⚝⚝⚝",
+                            "color": "gold"
+                        }
+                    ],
+                    "text": ""
+                },
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "weaponmaster:throwingknife/throwingknife"
                 }
             }
         ],

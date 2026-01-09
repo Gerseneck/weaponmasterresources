@@ -1,0 +1,38 @@
+{
+    "model": {
+        "type": "minecraft:select",
+        "property": "minecraft:component",
+        "component": "minecraft:custom_name",
+        "cases": [
+            {
+                "when": {
+                    "extra": [
+                        {
+                            "italic": false,
+                            "underlined": false,
+                            "bold": false,
+                            "color": "aqua",
+                            "obfuscated": false,
+                            "strikethrough": false,
+                            "text": "Wither Staff "
+                        },
+                        {
+                            "italic": false,
+                            "text": "⚝⚝⚝⚝⚝",
+                            "color": "gold"
+                        }
+                    ],
+                    "text": ""
+                },
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "weaponmaster:witherstaff/witherstaff"
+                }
+            }
+        ],
+        "fallback": {
+            "type": "minecraft:model",
+            "model": "minecraft:item/blaze_rod"
+        }
+    }
+}

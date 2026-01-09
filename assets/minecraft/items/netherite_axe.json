@@ -1,0 +1,39 @@
+{
+    "model": {
+        "type": "minecraft:select",
+        "property": "minecraft:component",
+        "component": "minecraft:custom_name",
+        "cases": [
+            {
+                "when": {
+                    "extra": [
+                        {
+                            "bold": true,
+                            "color": "light_purple",
+                            "italic": false,
+                            "obfuscated": false,
+                            "strikethrough": false,
+                            "text": "Vampire's Axe ",
+                            "underlined": false
+                        },
+                        {
+                            "bold": false,
+                            "color": "gold",
+                            "italic": false,
+                            "text": "⚝⚝⚝⚝⚝"
+                        }
+                    ],
+                    "text": ""
+                },
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "weaponmaster:vampaxe/vampaxe"
+                }
+            }
+        ],
+        "fallback": {
+            "type": "minecraft:model",
+            "model": "minecraft:item/netherite_axe"
+        }
+    }
+}
